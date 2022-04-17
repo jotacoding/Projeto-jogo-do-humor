@@ -1,0 +1,40 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+       
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+   
+}
+
+#legenda {
+    color: whitesmoke;
+}
+
+.formas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    width: 20vw;
+}
+
+.modelo {
+    margin-top: 5px;
+    height: 50vh;
+}
+
+footer {
+    color: whitesmoke;
+}
